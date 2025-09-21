@@ -1,4 +1,4 @@
-FROM n8nio/n8n:1.108.2
+FROM n8nio/n8n:1.111.0
 USER root
 
 RUN apk add qpdf
